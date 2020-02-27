@@ -1,5 +1,4 @@
-import React from 'react'
-quotes=[
+const quotes=[
 	{
     "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "author": "Thomas Edison"
@@ -283,6 +282,5 @@ quotes=[
 	"quote": "Life is movement-we breathe, we eat, we walk, we move!",
 	"author": "John Pierrakos"
 	}
-] ;
-
-export default quotes;
+]
+export default quotes

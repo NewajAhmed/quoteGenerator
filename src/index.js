@@ -4,7 +4,7 @@ import quotes from './QuotesDatabase'
 import "./index.css";
 
 
-class App extends React.Component {
+class index extends React.Component {
     constructor() {
       super();
       this.state = {
@@ -61,4 +61,4 @@ class App extends React.Component {
 
 
 
-export default app ;
+export default index ;
